@@ -72,6 +72,3 @@ Metric evaluations were conducted rigorously on **1000 real** and **1000 generat
 | Mean LPIPS | **0.126** |
 
 ---
-
-
-└── README.md
