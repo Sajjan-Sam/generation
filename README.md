@@ -10,7 +10,7 @@
 
 ## Abstract
 
-This repository contains a complete project pipeline for **realistic face image generation** utilizing **StyleGAN3-R** on the **CelebA** dataset at a **256×256** resolution. The core objective of this research is to improve facial geometry consistency without collapsing output diversity. 
+This project pipelined for **realistic face image generation** utilizing **StyleGAN3-R** on the **CelebA** dataset at a **256×256** resolution. The core objective of this research is to improve facial geometry consistency without collapsing output diversity. 
 
 The repository provides a comprehensive workflow encompassing a fine-tuned baseline, a novel geometry-aware regularization method, exploratory frequency ablations, and a robust perturbation analysis.
 
