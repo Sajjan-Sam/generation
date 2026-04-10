@@ -1,0 +1,5 @@
+num_fake_for_metrics: 1000
+compute_fid: true
+compute_kid: true
+compute_lpips_diversity: true
+compute_landmark_plausibility: true

@@ -1,0 +1,3 @@
+experiment_name: freq_head_stylegan3r_256
+enabled: false
+lambda_freq: 0.05

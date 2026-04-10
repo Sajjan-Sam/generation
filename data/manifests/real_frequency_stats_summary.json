@@ -1,0 +1,9 @@
+{
+  "time": "2026-04-09T18:52:05.152945",
+  "dataset_zip": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/stylegan3_zip/celeba_256x256.zip",
+  "sample_size": 3000,
+  "cutoff_ratio": 0.25,
+  "mean": 0.003470663446933031,
+  "std": 0.003451707528362274,
+  "stats_npz": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/manifests/real_frequency_stats.npz"
+}

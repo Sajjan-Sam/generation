@@ -1,0 +1,3 @@
+experiment_name: landmark_reg_stylegan3r_256
+lambda_lm: 0.05
+stats_file: ./data/manifests/real_landmark_stats.npz

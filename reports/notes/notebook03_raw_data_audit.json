@@ -1,0 +1,53 @@
+{
+  "time": "2026-04-07T11:53:23.896346",
+  "root": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation",
+  "raw_celeba_dir": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba",
+  "raw_personal_dir": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/personal_raw",
+  "num_celeba_images": 202599,
+  "num_personal_images": 0,
+  "celeba_sample_sizes": [
+    [
+      178,
+      218
+    ],
+    [
+      178,
+      218
+    ],
+    [
+      178,
+      218
+    ],
+    [
+      178,
+      218
+    ],
+    [
+      178,
+      218
+    ],
+    [
+      178,
+      218
+    ],
+    [
+      178,
+      218
+    ],
+    [
+      178,
+      218
+    ],
+    [
+      178,
+      218
+    ],
+    [
+      178,
+      218
+    ]
+  ],
+  "celeba_bad_files": [],
+  "personal_sample_sizes": [],
+  "personal_bad_files": []
+}

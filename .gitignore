@@ -1,0 +1,56 @@
+# Python / notebooks
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# env / OS / cache
+.env
+.venv/
+venv/
+.DS_Store
+.cache/
+*.log
+
+# raw datasets / downloads
+data/raw/celeba/
+data/_downloads/
+data/stylegan3_zip/
+
+# huge manifests not needed on GitHub
+data/manifests/celeba_master.csv
+data/manifests/split_train.csv
+data/manifests/split_val.csv
+data/manifests/split_test.csv
+data/manifests/real_landmark_features.csv
+
+# third-party repos can be recloned
+third_party/stylegan3/
+third_party/stylegan3-editing/
+
+# checkpoints and exported heavy model files
+checkpoints/
+results/baseline_export/
+results/generated/
+results/metrics_eval/generated_eval/
+results/metrics_eval/real_reference_1000/
+
+# heavy pair/image dumps
+results/personal_attack_eval/pairs/
+results/personal_attack_eval/aligned/
+results/final_submission_pack/final_15_images/
+
+# keep useful final outputs
+!results/
+!results/tables/
+!results/final_exports/
+!results/final_exports/final_results_report.pdf
+!results/final_exports/final_results_summary.csv
+!results/personal_attack_eval/
+!results/personal_attack_eval/tables/
+!results/personal_attack_eval/grids/
+!results/final_submission_pack/
+!results/final_submission_pack/manifests/
+!figures/
+!data/manifests/real_frequency_stats.npz

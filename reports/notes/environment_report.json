@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-04-06T11:05:38.320122",
+  "python": "3.10.12 | packaged by conda-forge | (main, Jun 23 2023, 22:40:32) [GCC 12.3.0]",
+  "platform": "Linux-6.8.0-59-generic-x86_64-with-glibc2.35",
+  "torch_version": "2.6.0+cu124",
+  "cuda_available": true,
+  "cuda_device_count": 1,
+  "gpu_names": [
+    "NVIDIA H100 NVL"
+  ]
+}

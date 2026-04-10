@@ -1,0 +1,4 @@
+model,fid,kid_mean,lpips_mean,landmark_mahalanobis_mean,status_note
+baseline,152.02782647183216,,0.566163033992052,7.531595230102539,Stable baseline; use as main visual reference.
+landmark_reg,3.363492443600035e+20,,0.5715612275898456,6.234958648681641,Best landmark plausibility; main proposed model; modified FID/KID unstable.
+freq_ablation,3.488801996588101e+30,,0.580751736164093,6.362450122833252,Optional ablation; geometry improved over baseline; FID/KID unstable.

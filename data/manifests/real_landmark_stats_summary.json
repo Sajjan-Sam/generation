@@ -1,0 +1,42 @@
+{
+  "time": "2026-04-08T17:14:19.704875",
+  "dataset_zip": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/stylegan3_zip/celeba_256x256.zip",
+  "num_total_in_zip": 202599,
+  "num_sampled": 5000,
+  "num_success": 4999,
+  "num_failed": 1,
+  "feature_names": [
+    "eye_to_nose_ratio",
+    "mouth_width_ratio",
+    "nose_to_mouth_ratio",
+    "left_brow_to_eye_ratio",
+    "right_brow_to_eye_ratio",
+    "eye_symmetry",
+    "brow_symmetry",
+    "jaw_symmetry",
+    "face_hw_ratio"
+  ],
+  "mean": {
+    "eye_to_nose_ratio": 0.8460772037506104,
+    "mouth_width_ratio": 0.8652247786521912,
+    "nose_to_mouth_ratio": 0.496669739484787,
+    "left_brow_to_eye_ratio": 0.35302624106407166,
+    "right_brow_to_eye_ratio": 0.35266172885894775,
+    "eye_symmetry": 0.15119966864585876,
+    "brow_symmetry": 0.02130994014441967,
+    "jaw_symmetry": 0.266991525888443,
+    "face_hw_ratio": 0.7694078087806702
+  },
+  "std": {
+    "eye_to_nose_ratio": 0.2018774002790451,
+    "mouth_width_ratio": 0.26084932684898376,
+    "nose_to_mouth_ratio": 0.26429083943367004,
+    "left_brow_to_eye_ratio": 0.09517831355333328,
+    "right_brow_to_eye_ratio": 0.0952935516834259,
+    "eye_symmetry": 0.15236805379390717,
+    "brow_symmetry": 0.026718424633145332,
+    "jaw_symmetry": 0.21451039612293243,
+    "face_hw_ratio": 0.0699784904718399
+  },
+  "stats_npz": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/manifests/real_landmark_stats.npz"
+}

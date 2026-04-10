@@ -1,0 +1,5 @@
+project_root: .
+stylegan3_repo: ./third_party/stylegan3
+stylegan3_editing_repo: ./third_party/stylegan3-editing
+celeba_raw_dir: ./data/raw/celeba
+personal_raw_dir: ./data/raw/personal_raw

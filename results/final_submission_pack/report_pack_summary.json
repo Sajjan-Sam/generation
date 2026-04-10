@@ -1,0 +1,24 @@
+{
+  "time": "2026-04-10T18:02:49.434946",
+  "main_model_for_report": "landmark_reg",
+  "baseline_model": "baseline",
+  "optional_ablation_model": "freq_ablation",
+  "interpretation": {
+    "baseline": "Stable reference model.",
+    "landmark_reg": "Main proposed model; best landmark plausibility among compared variants.",
+    "freq_ablation": "Optional ablation; present as exploratory.",
+    "fid_kid_note": "Modified-run FID/KID should be described as unstable in the current evaluation setup."
+  },
+  "personal_note": {
+    "raw_image": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/personal_raw/me.jpeg",
+    "panel_figure": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/figures/report/personal_image_panel.png",
+    "inversion_outputs_found": 0
+  },
+  "final_assets": {
+    "final_15_grid": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/figures/report/final_15_grid.png",
+    "comparison_grid": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/figures/report/qualitative_model_comparison_grid.png",
+    "metrics_table_png": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/figures/report/metrics_table.png",
+    "metrics_report_csv": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/results/final_submission_pack/metrics_table_for_report.csv",
+    "final_selection_manifest_csv": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/results/final_submission_pack/manifests/final_15_manifest.csv"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "time": "2026-04-07T11:15:41.087839",
+  "root": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation",
+  "raw_counts_before": {
+    "celeba": 202599,
+    "personal": 0
+  },
+  "processing": {
+    "celeba": {
+      "source_count": 202599,
+      "written_aligned": 0,
+      "written_cropped": 0,
+      "skipped": 0,
+      "failed_count": 202599,
+      "failed_examples": [
+        {
+          "file": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba/000001.jpg",
+          "error": "function takes at most 16 arguments (17 given)"
+        },
+        {
+          "file": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba/000002.jpg",
+          "error": "function takes at most 16 arguments (17 given)"
+        },
+        {
+          "file": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba/000003.jpg",
+          "error": "function takes at most 16 arguments (17 given)"
+        },
+        {
+          "file": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba/000004.jpg",
+          "error": "function takes at most 16 arguments (17 given)"
+        },
+        {
+          "file": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba/000005.jpg",
+          "error": "function takes at most 16 arguments (17 given)"
+        },
+        {
+          "file": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba/000006.jpg",
+          "error": "function takes at most 16 arguments (17 given)"
+        },
+        {
+          "file": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba/000007.jpg",
+          "error": "function takes at most 16 arguments (17 given)"
+        },
+        {
+          "file": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba/000008.jpg",
+          "error": "function takes at most 16 arguments (17 given)"
+        },
+        {
+          "file": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba/000009.jpg",
+          "error": "function takes at most 16 arguments (17 given)"
+        },
+        {
+          "file": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba/000010.jpg",
+          "error": "function takes at most 16 arguments (17 given)"
+        }
+      ]
+    },
+    "personal": {
+      "source_count": 0,
+      "written_aligned": 0,
+      "written_cropped": 0,
+      "skipped": 0,
+      "failed_count": 0,
+      "failed_examples": []
+    }
+  },
+  "audit": {
+    "celeba_aligned_256": {
+      "folder": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/interim/celeba_aligned_256",
+      "count": 0,
+      "sample_files": [],
+      "sample_sizes": [],
+      "bad_files": []
+    },
+    "celeba_cropped_256": {
+      "folder": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/interim/celeba_cropped_256",
+      "count": 0,
+      "sample_files": [],
+      "sample_sizes": [],
+      "bad_files": []
+    },
+    "personal_aligned": {
+      "folder": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/interim/personal_aligned",
+      "count": 0,
+      "sample_files": [],
+      "sample_sizes": [],
+      "bad_files": []
+    },
+    "personal_cropped": {
+      "folder": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/interim/personal_cropped",
+      "count": 0,
+      "sample_files": [],
+      "sample_sizes": [],
+      "bad_files": []
+    }
+  }
+}

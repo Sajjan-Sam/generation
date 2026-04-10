@@ -1,0 +1,13 @@
+Main reporting choice:
+- Use baseline as stable reference.
+- Use landmark_reg as the main proposed model.
+- Use freq_ablation only as optional ablation.
+
+Metrics interpretation:
+- Landmark plausibility improved for landmark_reg.
+- LPIPS diversity did not collapse.
+- Modified-run FID/KID are unstable and should be described as such.
+
+Personal image:
+- me.jpeg has been included in the final pack and personal panel.
+- If Notebook 10 inversion outputs are added later, rerun this notebook to include them automatically.

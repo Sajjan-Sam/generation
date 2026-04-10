@@ -1,0 +1,5 @@
+{
+  "bias_act": true,
+  "upfirdn2d": true,
+  "filtered_lrelu": true
+}

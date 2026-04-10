@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+pillow
+pyyaml
+tqdm
+jupyter
+notebook
+face-alignment
+torchmetrics[image]
+torch-fidelity
+lpips

@@ -1,0 +1,12 @@
+{
+  "master_csv": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/manifests/celeba_master.csv",
+  "train_csv": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/manifests/split_train.csv",
+  "val_csv": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/manifests/split_val.csv",
+  "test_csv": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/manifests/split_test.csv",
+  "num_images_total": 202599,
+  "num_train": 182339,
+  "num_val": 10129,
+  "num_test": 10131,
+  "celeba_dir": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/celeba",
+  "downloads_dir": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/_downloads/celeba_kaggle"
+}

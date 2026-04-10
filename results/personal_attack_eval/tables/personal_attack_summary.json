@@ -1,0 +1,14 @@
+{
+  "time": "2026-04-10T16:18:00.064235",
+  "raw_image": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/raw/personal_raw/me.jpeg",
+  "aligned_image": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/results/personal_attack_eval/aligned/aligned_original_me_160.png",
+  "pair_count": 15,
+  "similarity_threshold": 0.9990025974135313,
+  "calibration_similarity_mean": 0.9997193574905395,
+  "calibration_similarity_std": 0.00035838003850411314,
+  "attack_success_rate": 1.0,
+  "mean_ssim": 0.8543022519243243,
+  "mean_psnr": 26.009171299900746,
+  "mean_lpips": 0.12615380367885035,
+  "pairs_csv": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/results/personal_attack_eval/tables/personal_attack_pairs.csv"
+}

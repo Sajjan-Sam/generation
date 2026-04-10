@@ -1,0 +1,15 @@
+{
+  "time": "2026-04-10T11:51:24.578204",
+  "dataset_zip": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/data/stylegan3_zip/celeba_256x256.zip",
+  "real_ref_dir": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/results/metrics_eval/real_reference_1000",
+  "fake_root": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/results/metrics_eval/generated_eval",
+  "baseline_snapshot": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/checkpoints/baseline_stylegan3r/00005-stylegan3-r-celeba_256x256-gpus1-batch2-gamma1/network-snapshot-000050.pkl",
+  "landmark_snapshot": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/checkpoints/landmark_reg/00000-stylegan3-r-celeba_256x256-gpus1-batch2-gamma1/network-snapshot-000005.pkl",
+  "freq_snapshot": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/checkpoints/freq_ablation/00000-stylegan3-r-celeba_256x256-gpus1-batch2-gamma1/network-snapshot-000003.pkl",
+  "metrics_csv": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/results/tables/metrics_summary.csv",
+  "metrics_json": "/data/Sajjan_Singh/gen/gen_scaffold/realistic_face_generation/results/tables/metrics_summary.json",
+  "real_ref_count": 1000,
+  "fake_count_per_model": 1000,
+  "lpips_pair_count": 200,
+  "landmark_eval_count": 300
+}

@@ -1,0 +1,12 @@
+experiment_name: baseline_stylegan3r_256
+cfg: stylegan3-r
+resolution: 256
+gpus: 1
+batch: 32
+gamma: 6.6
+mirror: 1
+kimg: 1500
+snap: 10
+metrics: fid50k_full
+resume_url: https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan3/versions/1/files/stylegan3-r-ffhqu-256x256.pkl
+seed: 42
